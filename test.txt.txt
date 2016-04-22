@@ -1,0 +1,4 @@
+friday night: fooling around with github, terminal and atom - menage-a-trois? quatre?
+maybe I should start writing diary entries
+print ("Dear diary,")
+this will do for the beginning
